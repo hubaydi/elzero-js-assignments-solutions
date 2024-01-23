@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Learn JavaScript</title>
+    <script>
+      // Won't work as it comes before the h1 element.
+      document.getElementById("el").style.color = "red";
+    </script>
+    <script>
+      // will work. only when the page is loaded.
+      window.onload = function () {
+        document.getElementById("el").style.color = "red";
+      };
+    </script>
+  </head>
+  <body>
+    <h1 id="el">Page Title</h1>
+    <script>
+      // will work b/c it is placed after h1 tag.
+      document.getElementById("el").style.color = "red";
+    </script>
+  </body>
+</html>
