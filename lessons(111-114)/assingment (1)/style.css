@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+}
+select {
+  display: block;
+  width: 300px;
+  padding: 10px;
+  border-radius: 8px;
+  margin:0 auto 20px;
+  background-color: #ececec;
+  border: 1px solid #ddd;
+}
+select:focus {
+  outline: 1px solid green;
+}
+div {
+  margin: auto;
+  width: fit-content;
+}

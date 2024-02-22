@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+}
+input,
+select {
+  display: block;
+  width: 300px;
+  padding: 10px;
+  border-radius: 6px;
+  margin:0 auto 20px;
+  background-color: #eeee;
+  border: 1px solid #3adce1;
+  &:focus {
+    outline: 1px solid green;
+  }
+}
+label {
+  display: block;
+  width: fit-content;
+  margin: 0 auto 10px;
+  color: #0366DA;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
