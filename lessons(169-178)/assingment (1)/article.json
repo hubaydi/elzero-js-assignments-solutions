@@ -1,0 +1,37 @@
+[
+  {
+    "id": "401321",
+    "author": "Mohamed",
+    "category": "Programming",
+    "title": "HTML",
+    "content": "HTML is a markup Language"
+  },
+  {
+    "id": "401322",
+    "author": "Farah",
+    "category": "Programming",
+    "title": "Css",
+    "content": "CSS is a Styling Language"
+  },
+  {
+    "id": "401323",
+    "author": "Abdi",
+    "category": "Programming",
+    "title": "JavaScript",
+    "content": "Learn JS to make your website Interactive"
+  },
+  {
+    "id": "401324",
+    "author": "Geedi",
+    "category": "Programming",
+    "title": "React",
+    "content": "React is JS Library that can improve Your Skills"
+  },
+  {
+    "id": "401325",
+    "author": "Mohamed",
+    "category": "General",
+    "title": "How is Your progress In Programming?",
+    "content": "wish You a good luck Man"
+  }
+]
