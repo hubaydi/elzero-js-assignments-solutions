@@ -54,30 +54,29 @@ close
 
 ## Introduction & Syntax
 
-- [    Assignment one solution](./lessons(01-09)/assignment-01.html)
-- [    Assignment two solution](./lessons(01-09)/assignment-02.js)
-- [    Assignment three solution](./lessons(01-09)/assignment-03.js)
-- [    Assignment four solution](./lessons(01-09)/assignment-04.js)
-- [    Assignment five solution](./lessons(01-09)/assignment-05.html)
-- [    Assignment six solution](./lessons(01-09)/assignment-06.html)
+- [    Assignment 01 solution](./lessons(01-09)/assignment-01.html)
+- [    Assignment 02 solution](./lessons(01-09)/assignment-02.js)
+- [    Assignment 03 solution](./lessons(01-09)/assignment-03.js)
+- [    Assignment 04 solution](./lessons(01-09)/assignment-04.js)
+- [    Assignment 05 solution](./lessons(01-09)/assignment-05.html)
+- [    Assignment 06 solution](./lessons(01-09)/assignment-06.html)
 
 
-<!-- ## Data Types And Variables
+## Data Types And Variables
 
-- [    Assignment one solution]()
-- [    Assignment two solution]()
-- [    Assignment three solution]()
-- [    Assignment four solution]()
-- [    Challenge solution]()
+- [    Assignment 01 solution](./lessons(10-17)/assignment%20%281%29)
+- [    Assignment 02 solution](./lessons(10-17)/assignment%20%282%29)
+- [    Assignment 03 solution](./lessons(10-17)/assignment%20%283%29)
+- [    Assignment 04 solution](./lessons(10-17)/assignment%20%284%29)
+- [    Challenge solution](./lessons(10-17)/Challenge)
 
-## Operators
+<!-- ## Operators
 
-- [    Assignment one solution]()
-- [    Assignment two solution]()
-- [    Assignment three solution]()
-- [    Assignment four solution]()
-- [    Challenge solution]()
-
+- [    Assignment 01 solution](./lessons(18-22)/assignment%20%281%29)
+- [    Assignment 02 solution](./lessons(18-22)/assignment%20%282%29)
+- [    Assignment 03 solution](./lessons(18-22)/assignment%20%283%29)
+- [    Assignment 04 solution](./lessons(18-22)/assignment%20%284%29)
+- [    Challenge solution](./lessons(18-22)/Challenge)
 ## Number And String
 
 - [    Assignment one solution]()
