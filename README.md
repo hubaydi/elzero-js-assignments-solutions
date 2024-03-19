@@ -8,11 +8,11 @@
 >  اللهم علمنا ما ينفعنا، وانفعنا بما علمتنا، وزدنا علما "سُبْحَانَكَ لا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ".
 > <br>
 
-> I have finally Compeleted this Awesome JavaScript Bootcamp, From [Elzero Web School](elzero.org).
+> I have finally Compeleted this Awesome JavaScript Bootcamp, From [Elzero Web School](elzero.org) .
 
 **Special thanks to our teacher [OsamaElzero](https://github.com/OsamaElzero), we'll never forget your help, hard work, and dedication for us.**
 
-This repository contains solutions for assignments and challenges from [Elzero Javascript Bootcamp Course](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) Available on the Elzero [Youtube Channel](www.youtube.com/@ElzeroWebSchool) and the [website](elzero.org).
+This repository contains solutions for assignments and challenges from [Elzero Javascript Bootcamp Course](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) Available on the Elzero [Youtube Channel](www.youtube.com/@ElzeroWebSchool) and the [website](elzero.org) .
 
 **I Hope this will be helpful for You. Good luck for Your Learning Journey `myFriend`**.
 
